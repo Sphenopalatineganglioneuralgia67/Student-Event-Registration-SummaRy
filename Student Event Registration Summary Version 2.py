@@ -1,4 +1,4 @@
-# Version 2 :
+# Version 2 : Added string formatting
 
 def registration():
     first_name = input("Enter your first name: ")
