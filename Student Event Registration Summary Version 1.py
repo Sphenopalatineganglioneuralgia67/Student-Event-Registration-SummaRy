@@ -1,4 +1,4 @@
-# Version 1:
+# Version 1: Initial version - basic input and output
 def registration():
     first_name = input("Enter your first name: ")
     last_name = input ("Enter your last name: ")
